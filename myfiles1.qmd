@@ -1,0 +1,16 @@
+---
+title: "myplots"
+format: html
+editor: visual
+---
+
+## Intro
+
+```{r}
+hist(cars$speed)
+```
+
+```{r}
+sessionInfo()
+```
+
